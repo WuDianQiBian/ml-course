@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipython
+pillow
+imageio
+imageio-ffmpeg
+moviepy
