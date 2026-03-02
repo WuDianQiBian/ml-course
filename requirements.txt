@@ -5,3 +5,4 @@ pillow
 imageio
 imageio-ffmpeg
 moviepy
+jupyterlab
