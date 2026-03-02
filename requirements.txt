@@ -5,4 +5,8 @@ pillow
 imageio
 imageio-ffmpeg
 moviepy
+nbconvert
+nbclient
+ipykernel
 jupyterlab
+jupyter-collaboration
