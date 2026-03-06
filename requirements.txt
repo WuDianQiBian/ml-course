@@ -10,3 +10,4 @@ nbclient
 ipykernel
 jupyterlab
 jupyter-collaboration
+playwright
