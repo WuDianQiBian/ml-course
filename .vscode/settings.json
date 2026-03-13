@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "scm.defaultViewMode": "tree",
+}
